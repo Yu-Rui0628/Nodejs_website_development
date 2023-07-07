@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "Web Application Development assignment 2",
+  "main": "index.js",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mongodb": "^5.3.0",
+    "mongoose": "^5.5.7",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "scripts": {},
+  "author": "Gary, Xixi, Yuri",
+  "license": "ISC"
+}
